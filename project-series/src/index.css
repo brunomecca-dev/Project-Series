@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 20px;
+  background-color: white;
+  color: black;
+  font-family: Arial, sans-serif;
+}
+
+#root {
+  text-align: left;
+}
+
+ul {
+  padding-left: 20px;
+  margin-top: 0;
+}
+
+a {
+  color: black;
+  text-decoration: underline;
+  cursor: pointer;
+}
