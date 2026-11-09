@@ -4,11 +4,11 @@ Para executar este projeto:
 
 1. Entre pasta project-series no terminal:
 ```
-cd projects-series
+cd project-series
 ```
 
 2. Rode npm install para instalar as dependências do projeto:
-
+ 
 
 ```
 npm install
@@ -22,11 +22,11 @@ npm run dev
 
 Após execução do projeto, estes são os resultados esperados no navegador:
 
-![Resultado da Página Inicial](./prints/print-inicial.png)
+![Resultado da Página Inicial](./print-inicial.png)
 
-![Resultado da Página Cadastrar Séries](./prints/print-cadastro.png)
+![Resultado da Página Cadastrar Séries](./print-cadastro.png)
 
-![Resultado da Página Lista de Séries](./prints/print-lista.png)
+![Resultado da Página Lista de Séries](./print-lista.png)
 
 
 ## Introdução
